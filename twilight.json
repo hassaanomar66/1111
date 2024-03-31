@@ -1,6 +1,6 @@
 {
     "name": {
-        "ar": "رائد",
+        "ar": "حساند",
         "en": "Theme Raed"
     },
     "repository": "https://github.com/SallaApp/theme-raed",
@@ -773,6 +773,15 @@
                                 }
                             ]
                         },
+                               
+                         {
+                                <div align="center">
+                                     <table border="0" width="100%" style="border-collapse: collapse">
+                                      <tr><td class="alt1" colspan="3"><b>
+                                        <font size="4" color="000000">
+                                      <marquee direction="right" width="100%" height="20"direction="right" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5">مدونة كن داعيا للخير </marquee></font></b></td>
+                                      </tr></table></div>
+                         {
                         {
                             "type": "string",
                             "icon": "sicon-format-text-alt",
